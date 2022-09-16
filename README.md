@@ -25,10 +25,10 @@ The events in the database start in the year 1950 and end in November 2011. In t
 The basic goal of this project is to explore the NOAA Storm Database and answer some basic questions about severe weather events. 
 In this data analysis project we address the following questions:
 
-1. Across the United States, which types of events (as indicated in the EVTYPE\color{red}{\verb|EVTYPE|}EVTYPE variable) are most harmful with respect to population health?
+1. Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?
         
 2. Across the United States, which types of events have the greatest economic consequences?
 
-This repository consist of rmarkdown report of the analysis.
+This repository consist of rmarkdown report (.rmd file ) of the analysis along with .md and .pdf file.
 
 
