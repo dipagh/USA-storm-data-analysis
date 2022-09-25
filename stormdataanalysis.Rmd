@@ -40,7 +40,7 @@ library(stringr)
 
 url<-"https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2"
 download.file(url, destfile = "repdata_data_StormData.csv.bz2")
-unzip("repdata_data_StormData.csv.bz2")
+#unzip("repdata_data_StormData.csv.bz2")
 
 data <- read.csv('repdata_data_StormData.csv', header = T)
 dim(data)
